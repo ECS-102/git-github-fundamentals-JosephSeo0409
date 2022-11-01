@@ -1,0 +1,6 @@
+What I learned so far in GitHub is that it is a useful resource that is used by professionals in the industry.
+It can be used to work on the code collabratively from long distances.
+Different people can work on a part of the code and then commit their changes which would allow the other team members to see the changes.
+It is important that different people don't change the same thing so that there is no problems when the code is committed and put together.
+
+GitHub is an important tool that I have to master in order to become a trusted profressional in the industry due to its prevalence in the industry. 
